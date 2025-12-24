@@ -1,0 +1,9 @@
+This project will help me learn data science step by step.
+
+Things I want to learn:
+- How to load data
+- How to inspect data
+- How to calculate basic statistics
+- How to make simple plots
+
+I will improve this project over time.
